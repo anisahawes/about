@@ -1,28 +1,12 @@
 # Anisa Hawes
 
-## Education
-
-**2011-2017**	MA Archives and Records Management University College London  
-**2004-2007**	BA Fine Art Central Saint Martins College of Art and Design  
-**2003-2004**	BTEC National Diploma Central Saint Martins College of Art and Design  
-**2001-2003**	A Levels Art, English Literature and Language, Photography; French (AS)  
-
-## Employment
-
-**2019-date**	Researcher and web archivist (freelance)  
-**2015-2018**	Researcher Victoria and Albert Museum, London  
-**2010-2015**	Curatorial assistant Victoria and Albert Museum, London  
-**2009-2010** 	Archive and Library assistant National Portrait Gallery, London  
-**2008**		Archive assistant City of Westminster Archives, London  
-**2007-2008**	Research assistant (volunteer) National Portrait Gallery, London  
-
 ## Presentations
 
-**2020  (forthcoming)**  
+**2020**  
 
 [Engaging with Web Archives: Opportunities, Challenges and Potentialities](https://ewaconference.com/
 )  
-Co. Kildare, Ireland, Maynooth University (date TBC), “Archiving 1418-Now using Rhizome’s Webrecorder: observations and reflections”.
+Co. Kildare, Ireland, Maynooth University (September 21-22), “Archiving 1418-Now using Rhizome’s Webrecorder: observations and reflections”.
 
 **2019**  
 
@@ -47,7 +31,7 @@ London, Ladies that UX (February 27), “Encounters: findings of User Experience
 [Digital Preservation Coalition’s Significance & Authenticity Briefing Day](https://dpconline.org/events/past-events/sigauthbd)  
 London, Tate (December 15), “Significance & Authenticity of Web and Social Media-based Design”. 
 
-[Researching Digital Cultural Heritage](https://www.alc.manchester.ac.uk/icp/connect/events/digital-heritage-conference/)  
+[Researching Digital Cultural Heritage](http://documents.manchester.ac.uk/display.aspx?DocID=33837)
 Manchester, University of Manchester (December 1), “Objects in context: new modes of collecting and curating digital posters”. 
 
 [Archives, Activism and Social Media](https://bit.ly/2UKP6lt)  
@@ -88,7 +72,25 @@ to Brown, S. (ed.) Horst: Photographer of Style, London: V&A Publishing
 
 Curatorial Assistant [Horst: Photographer of Style](http://www.vam.ac.uk/content/exhibitions/exhibition-horst-photographer-of-style/about-the-exhibition/), Victoria and Albert Museum, London (September 6 2014 – January 4 2015). International tour venues: McCord Museum, Quebec; The Netherlands Photo Museum, Rotterdam; NRW Forum, Dusseldorf.
 
-
 **2012**
 
 Curatorial Assistant [Queen Elizabeth II: Portraits by Cecil Beaton](http://www.vam.ac.uk/content/exhibitions/cecilbeaton/about-the-exhibition/), Victoria and Albert Museum, London (February 8 - April 22). National tour venues: McManus Gallery, Dundee; Leeds City Museum; Norwich Castle Museum and Art Gallery; Laing Art Gallery, Newcastle.
+
+
+## Education
+
+**2011-2017**	MA Archives and Records Management University College London  
+**2004-2007**	BA Fine Art Central Saint Martins College of Art and Design  
+**2003-2004**	BTEC National Diploma Central Saint Martins College of Art and Design  
+**2001-2003**	A Levels Art, English Literature and Language, Photography; French (AS)  
+
+
+## Employment
+
+**2019-date**	Researcher and web archivist (freelance)  
+**2015-2018**	Researcher Victoria and Albert Museum, London  
+**2010-2015**	Curatorial assistant Victoria and Albert Museum, London  
+**2009-2010** 	Archive and Library assistant National Portrait Gallery, London  
+**2008**		Archive assistant City of Westminster Archives, London  
+**2007-2008**	Research assistant (volunteer) National Portrait Gallery, London  
+
