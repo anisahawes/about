@@ -4,8 +4,13 @@
 
 **2020**  
 
-[Engaging with Web Archives: Opportunities, Challenges and Potentialities](https://ewaconference.com/
-)  
+_Forthcoming_[Documenting the Interactive Documentary](https://www.eventbrite.co.uk/e/documenting-the-interactive-documentary-webinar-tickets-123527671591)
+IDFA DocLab, MIT Open Documentary Lab and the Netherlands Institute for Sound and Vision (November 6), "Archiving the Architecture of Saydnaya using Webrecorder"
+
+[Networked Art Practice after Digital Preservation](https://networkedart.blog/blog/2020/10/11/workshop-at-isea-2020-17-october-1000-1700-edt/)
+ISEA International (October 17), "Preserving net art and online projects using Rhizome's Conifer: curatorial considerations"
+
+[Engaging with Web Archives: Opportunities, Challenges and Potentialities](https://ewaconference.com/)  
 Co. Kildare, Ireland, Maynooth University (September 21-22), “Archiving 1418-Now using Rhizome’s Webrecorder: observations and reflections”.
 
 **2019**  
@@ -18,7 +23,6 @@ London, Tate (April 3-5), “Preserving the Web: An introduction to Webrecorder�
 
 [Web & Social Media Archiving for Community & Individual Archives Briefing Day](https://www.dpconline.org/events/web-social-media-archiving-for-community-individual-archives)  
 London, Digital Preservation Coalition (December 6), “Case Study on Collecting and Curating Digital Posters Using Mixed Approaches” and “How-to: Rhizome’s Webrecorder”.
-
 
 [Rhizome’s National Forum on Ethics and Archiving the Web](https://eaw.rhizome.org)  
 New York, New Museum (March 22-24), “Webrecorder and Curatorial practice: Experiences and Observations”.
