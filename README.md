@@ -4,7 +4,7 @@
 
 **2020**  
 
-[Documenting the Interactive](https://www.eventbrite.co.uk/e/documenting-the-interactive-documentary-webinar-tickets-123527671591)
+[Documenting the Interactive](https://www.eventbrite.co.uk/e/documenting-the-interactive-documentary-webinar-tickets-123527671591#)
 IDFA DocLab, MIT Open Documentary Lab and the Netherlands Institute for Sound and Vision (November 6), "Archiving the Architecture of Saydnaya using Webrecorder"
 
 [Networked Art Practice after Digital Preservation](https://networkedart.blog/blog/2020/10/11/workshop-at-isea-2020-17-october-1000-1700-edt/)
