@@ -2,55 +2,66 @@
 
 ## Presentations
 
+**2022**
+
+[iPres2022](https://ipres2022.scot/) Glasgow, 18th International Conference on Digital Preservation (September 12-16), "Vanished: Preserving the Carmichael Watson Project Website Offline Using Webrecorder" (with Sara Day Thomson).
+
+[Public Engagement in Web Archives Working Group](https://www.ifph2020.berlin/program/index.html) Berlin, 6th World Conference of the International Federation for Public History (August 16-20), "Annotated Access to the Carmichael Watson Project".
+
+**2021**
+
+[Web Archiving & Preservation Working Group](https://www.dpconline.org/events/wapwg-meeting-dec2021)
+Digital Preservation Coalition (December 9), "Using ArchiveWeb.page to capture the Carmichael Watson Project web resource at the University of Edinburgh" (with Sara Day Thomson).
+
 **2020**  
 
 [Documenting the Interactive](https://www.eventbrite.co.uk/e/documenting-the-interactive-documentary-webinar-tickets-123527671591#)
-IDFA DocLab, MIT Open Documentary Lab and the Netherlands Institute for Sound and Vision (November 6), "Archiving the Architecture of Saydnaya using Webrecorder"
+IDFA DocLab, MIT Open Documentary Lab and the Netherlands Institute for Sound and Vision (November 6), "Archiving the Architecture of Saydnaya using Webrecorder".
 
 [Networked Art Practice after Digital Preservation](https://networkedart.blog/blog/2020/10/11/workshop-at-isea-2020-17-october-1000-1700-edt/)
-ISEA International (October 17), "Preserving net art and online projects using Rhizome's Conifer: curatorial considerations"
+ISEA International (October 17), "Preserving net art and online projects using Rhizome's Conifer: curatorial considerations".
 
 [Engaging with Web Archives: Opportunities, Challenges and Potentialities](https://ewaconference.com/)  
-Co. Kildare, Ireland, Maynooth University (September 21-22), “Archiving 1418-Now using Rhizome’s Webrecorder: observations and reflections”.
+Co. Kildare, Ireland, Maynooth University (September 21-22), "Archiving 1418-Now using Rhizome’s Webrecorder: observations and reflections".
 
 **2019**  
 
 [Reshaping the Collectible: When Artworks Live in the Museum](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/lives-net-art)  
-London, Tate (April 3-5), “Preserving the Web: An introduction to Webrecorder”.
+London, Tate (April 3-5), "Preserving the Web: An introduction to Webrecorder".
 
 
 **2018**  
 
 [Web & Social Media Archiving for Community & Individual Archives Briefing Day](https://www.dpconline.org/events/web-social-media-archiving-for-community-individual-archives)  
-London, Digital Preservation Coalition (December 6), “Case Study on Collecting and Curating Digital Posters Using Mixed Approaches” and “How-to: Rhizome’s Webrecorder”.
+London, Digital Preservation Coalition (December 6), "Case Study on Collecting and Curating Digital Posters Using Mixed Approaches" and "How-to: Rhizome’s Webrecorder".
 
 [Rhizome’s National Forum on Ethics and Archiving the Web](https://eaw.rhizome.org)  
-New York, New Museum (March 22-24), “Webrecorder and Curatorial practice: Experiences and Observations”.
+New York, New Museum (March 22-24), "Webrecorder and Curatorial practice: Experiences and Observations".
 
 [UX in Cultural Heritage](https://www.eventbrite.co.uk/e/ux-in-cultural-heritage-tickets-42824805145#)  
-London, Ladies that UX (February 27), “Encounters: findings of User Experience testing in the Collecting and Curating Digital Posters project”.
+London, Ladies that UX (February 27), "Encounters: findings of User Experience testing in the Collecting and Curating Digital Posters project".
 
 **2017**  
 
 [Digital Preservation Coalition’s Significance & Authenticity Briefing Day](https://dpconline.org/events/past-events/sigauthbd)  
-London, Tate (December 15), “Significance & Authenticity of Web and Social Media-based Design”. 
+London, Tate (December 15), "Significance & Authenticity of Web and Social Media-based Design". 
 
 [Researching Digital Cultural Heritage](http://documents.manchester.ac.uk/display.aspx?DocID=33837)
-Manchester, University of Manchester (December 1), “Objects in context: new modes of collecting and curating digital posters”. 
+Manchester, University of Manchester (December 1), "Objects in context: new modes of collecting and curating digital posters". 
 
 [Archives, Activism and Social Media](https://bit.ly/2UKP6lt)  
-Cambridge, University of Cambridge (September 21-22), “Collecting and Curating Digital Posters: Experiences, Challenges, Reflections”.  
+Cambridge, University of Cambridge (September 21-22), "Collecting and Curating Digital Posters: Experiences, Challenges, Reflections".  
 
 [Researchers, Practitioners and the Archived Web](http://archivesunleashed.com/)  
 London, Research Infrastructure for the Study of Archived Web Materials/International Internet Preservation Coalition (June 11-13), "Archives Unleashed 4.0 Web Archive Datathon".
 
 [Accelerated Art History: Tools and Techniques for a Fast-Changing Art World](https://www.collegeart.org/pdf/conference/conference-program-2017.pdf)  
-New York, College Art Association 105th Annual Conference (February 15-18), “Collecting and Curating Digital Posters: a collaborative pilot study using Rhizome's Webrecorder”.
+New York, College Art Association 105th Annual Conference (February 15-18), "Collecting and Curating Digital Posters: a collaborative pilot study using Rhizome's Webrecorder".
 
 
 **2013**
  
-Practice-knowledge: Archive Production, Intervention, Curation, London, Birkbeck University of London (July 5), “Archival Science: compatibility with Practice”.
+Practice-knowledge: Archive Production, Intervention, Curation, London, Birkbeck University of London (July 5), "Archival Science: compatibility with Practice".
 
 ## Publications
 
